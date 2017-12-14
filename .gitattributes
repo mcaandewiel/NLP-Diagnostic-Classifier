@@ -1,0 +1,5 @@
+ted_lm/to_run/model-lr-10-min5.pt filter=lfs diff=lfs merge=lfs -text
+diagnostic-classifier.pt filter=lfs diff=lfs merge=lfs -text
+ted_lm/to_run/data/test.txt filter=lfs diff=lfs merge=lfs -text
+ted_lm/to_run/data/train.txt filter=lfs diff=lfs merge=lfs -text
+ted_lm/to_run/data/valid.txt filter=lfs diff=lfs merge=lfs -text
